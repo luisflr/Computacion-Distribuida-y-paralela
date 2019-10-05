@@ -1,3 +1,3 @@
 # Computacion-Distribuida-y-paralela
 
-Comparacion de tiempos de ejecucion entre programacion secuencial y programacion paralela con el promblema de calculo de los n primeros números primos .
+Comparación de tiempos entre programación secuencial y programación paralela con el promblema de cálculo de los n primeros números primos .
